@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/Xusanbek0071/Xusanbek0071/blob/main/snake.svg)
+
 # 👋 Assalomu alaykum, men Husan Suyunov!
 
 🎓 **Bakalavr talabasi**  
