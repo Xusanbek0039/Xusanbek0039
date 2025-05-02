@@ -47,3 +47,7 @@ Kimyo Xalqaro Universiteti, Toshkent
 - Telegram: [@Husanbek_Coder](https://t.me/husanbek_coder)
 - Email: itpark0071@gmail.com
 
+-----------------------------------------------
+
+![Slide Preview](assets/slide-preview.gif)
+
