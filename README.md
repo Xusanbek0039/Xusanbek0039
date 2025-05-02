@@ -1,10 +1,10 @@
-# 👋 Assalomu alaykum, men Husan!
+# 👋 Assalomu alaykum, men Husan Suyunov!
 
 🎓 **Bakalavr talabasi**  
 Kimyo Xalqaro Universiteti, Toshkent  
 *Tarmoqlarda Biznesni Boshqarish* yo‘nalishi
 
----
+----------------------------------------------
 
 ## 💻 Texnologiyalar
 
@@ -22,15 +22,15 @@ Kimyo Xalqaro Universiteti, Toshkent
 - 🔸 JavaScript / TypeScript
 - 🔸 ReactJS
 
----
+----------------------------------------------
 
 ## 🏆 Sertifikatlar
 - 🎓 **M**ohirdev — 2 ta sertifikat  
 - 🎓 **Najot Ta'lim** — 2 ta sertifikat  
 
-📎 [Sertifikat havolalarini shu yerga kiritasiz]
+📎 [https://github.com/Xusanbek0039/Xusanbek0039/blob/main/NLP.pdf]
 
----
+----------------------------------------------
 
 ## 🌟 Men haqimda qisqacha:
 - 🔧 Zamonaviy veb-ilovalar yarataman
@@ -38,11 +38,10 @@ Kimyo Xalqaro Universiteti, Toshkent
 - 🚀 Frontend va Backend tomonlama to‘liq veb platformalarni ishlab chiqaman
 - 👨‍💻 Har doim o‘sishga, o‘rganishga va tajriba almashishga tayyorman
 
----
+----------------------------------------------
 
 ## 📫 Murojaat uchun:
 - GitHub: [github.com/username](https://github.com/username)
 - LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
 - Email: yourname@email.com
 
-> ✅ *O‘zingiz haqida kuchli impression qoldirish uchun profilingiz README’si aynan shunday jilo berishi kerak!*
