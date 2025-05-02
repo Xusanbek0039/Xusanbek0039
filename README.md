@@ -51,5 +51,5 @@ Kimyo Xalqaro Universiteti, Toshkent
 
 -----------------------------------------------
 
-![Slide Preview](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/m.gif)
+![Slide Preview](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/0502.mp4)
 
