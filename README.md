@@ -30,7 +30,7 @@ Kimyo Xalqaro Universiteti, Toshkent
 
 [📎 Suniy intelekt -NLP (PDF)](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/NLP.pdf)
 
-[📎 Full-Stack Python sertifikati (PDF)](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/Full Stack Python.pdf)
+[📎 Full-Stack Python sertifikati (PDF)](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/Full%20Stack%20Python.pdf)
 
 ----------------------------------------------
 
@@ -44,6 +44,6 @@ Kimyo Xalqaro Universiteti, Toshkent
 
 ## 📫 Murojaat uchun:
 - GitHub: [github.com/username](https://github.com/username)
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-- Email: yourname@email.com
+- Telegram: [t.me/username](https://t.me/husanbek_coder)
+- Email: itpark0071@gmail.com
 
