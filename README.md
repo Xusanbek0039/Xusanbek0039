@@ -45,7 +45,7 @@ Kimyo Xalqaro Universiteti, Toshkent
 ----------------------------------------------
 
 ## 📫 Murojaat uchun:
-- GitHub: [Xusanbek0039](https://github.com/username)
+- GitHub: [Xusanbek0039](https://github.com/xusanbek0039)
 - Telegram: [@Husanbek_Coder](https://t.me/husanbek_coder)
 - Email: itpark0071@gmail.com
 
