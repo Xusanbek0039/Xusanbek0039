@@ -1,6 +1,6 @@
 ![Snake animation](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/snake.svg)
 
-# 👋 Assalomu alaykum, men Husan Suyunov!
+# 👋 Assalomu alaykum, men Husan Suyunov Full-Stack Python Dasturchi!
 
 🎓 **Bakalavr talabasi**  
 Kimyo Xalqaro Universiteti, Toshkent  
@@ -17,6 +17,7 @@ Kimyo Xalqaro Universiteti, Toshkent
 - 🔹 Django
 - 🔹 Django Rest Framework (DRF)
 - 🔹 FastAPI
+- 🔹 NodeJS
 
 ### 🎨 Frontend:
 - 🔸 HTML / CSS / Sass / Scss
