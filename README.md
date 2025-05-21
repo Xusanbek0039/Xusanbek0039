@@ -31,9 +31,9 @@ Kimyo Xalqaro Universiteti, Toshkent
 - 🎓 **M**ohirdev — 2 ta sertifikat  
 - 🎓 **Najot Ta'lim** — 2 ta sertifikat  
 
-[📎 Suniy intelekt -NLP (PDF)](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/NLP.pdf)
+[📎 Suniy intelekt -NLP (PDF)](https://xusanbek0039.github.io/Xusanbek0039/NLP.pdf)
 
-[📎 Full-Stack Python sertifikati (PDF)](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/Full%20Stack%20Python.pdf)
+[📎 Full-Stack Python sertifikati (PDF)](https://xusanbek0039.github.io/Xusanbek0039/Full%20Stack%20Python.pdf)
 
 ----------------------------------------------
 
