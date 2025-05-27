@@ -301,18 +301,18 @@ With over 3 years of experience, I specialize in building seamless, user-centric
 
 ## 🚀 Top Repositories
 
-<a href="https://github.com/Iqbolshoh/laravel-business-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=laravel-business-website&theme=radical" alt="Laravel Business Website" width="49%">
+<a href="https://github.com/xusanbek0039/laravel-business-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=laravel-business-website&theme=radical" alt="Laravel Business Website" width="49%">
 </a>
 
-<a href="https://github.com/Iqbolshoh/php-mysql-marketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=php-mysql-marketplace&theme=radical" alt="Top Repositories" width="49%">
+<a href="https://github.com/xusanbek0039/php-mysql-marketplace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=php-mysql-marketplace&theme=radical" alt="Top Repositories" width="49%">
 </a>
 
-<a href="https://github.com/Iqbolshoh/php-social-messenger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=php-social-messenger&theme=radical" alt="PHP Social Messenger" width="49%">
+<a href="https://github.com/xusanbek0039/php-social-messenger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=php-social-messenger&theme=radical" alt="PHP Social Messenger" width="49%">
 </a>
 
-<a href="https://github.com/Iqbolshoh/php-auth-master">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iqbolshoh&repo=php-auth-master&theme=radical" alt="PHP Auth Master" width="49%">
+<a href="https://github.com/xusanbek0039/php-auth-master">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=php-auth-master&theme=radical" alt="PHP Auth Master" width="49%">
 </a>
