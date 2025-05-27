@@ -71,7 +71,7 @@ With over 3 years of experience, I specialize in building seamless, user-centric
 
 <p align="center">
   <img src="/Python Husanbek Suyunov.png" alt="Husanbek photo 1" width="30%"/>
-  <img src="https://xusanbek0039.github.io/Xusanbek0039/Husanbek%20Suyunov.jpg" alt="Husanbek photo 2" width="30%"/>
+  <img src="/Husanbek Suyunov.png" alt="Husanbek photo 2" width="30%"/>
   <img src="/NLP Husanbek Suyunov.png" alt="Husanbek photo 3" width="30%"/>
 </p>
 
