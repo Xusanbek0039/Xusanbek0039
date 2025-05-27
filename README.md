@@ -71,7 +71,7 @@ With over 3 years of experience, I specialize in building seamless, user-centric
 
 <p align="center">
   <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="Iqbolshoh photo 1" width="30%"/>
-  <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-5.jpg" alt="Iqbolshoh photo 2" width="30%"/>
+  <img src="https://xusanbek0039.github.io/Xusanbek0039/Husanbek%20Suyunov.jpg" alt="Iqbolshoh photo 2" width="30%"/>
   <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="Iqbolshoh photo 3" width="30%"/>
 </p>
 
