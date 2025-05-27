@@ -40,7 +40,7 @@ Kimyo Xalqaro Universiteti, Toshkent
 </p>
 
 <div align="center">
-✨ Men <strong>Khusan Suyunov</strong>, dasturlashga ishtiyoqli Full-Stack Developer va Kimyo International University In Tashkent Biznes Managment Networks yo'nalishi bo'yicha 4-kurs talabaman. <br>
+✨ Men <strong>Husan Suyunov</strong>, dasturlashga ishtiyoqli Full-Stack Developer va Kimyo International University In Tashkent Biznes Managment Networks yo'nalishi bo'yicha 4-kurs talabaman. <br>
 Buyuk <strong>Jizzax, O‘zbekiston</strong> shahridanman.  
 4 yildan ortiq tajribam bilan foydalanuvchi uchun qulay va zamonaviy raqamli echimlar yaratishga ixtisoslashganman — ijodkorlik va toza kod yozishni uyg'unlashtiraman. 🚀
 </div>
