@@ -83,9 +83,9 @@ With over 3 years of experience, I specialize in building seamless, user-centric
       Djizzax, Uzbekistan
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
+      <img src="https://kiut.uz/static/img/icons/logo.65854c536596.svg" width="40" alt="Education Icon"/><br/>
       <strong>Education</strong><br/>
-      4th-Year Student<br/>Samarkand State University
+      4th-Year Student<br/>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
