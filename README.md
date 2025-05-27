@@ -61,7 +61,7 @@ Kimyo Xalqaro Universiteti, Toshkent
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=09BAF7&width=435&lines=Husanbek+Suyunov+Full+Stack+Web+Developer" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F74244&width=450&lines=Full-Stack+Web+Developer;NLP+Python+Developer;Backend+Python+Developer;Full-Stack+Web+Mentor;Frontend%3A+Html%2C+Css%2C+Sass%2FScss%2C+Tailwand+Css%2C+JavaScript%2C+TypeScript%2C+RceactJs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F74244&width=450&lines=Full-Stack+Web+Developer;NLP+Python+Developer;Backend+Python+Developer;Full-Stack+Web+Mentor;Frontend%3A+Html%2C+Css%2C+Sass%2FScss;Tailwand+Css%2C+JavaScript;TypeScript%2C+RceactJs" alt="Typing SVG" />
 </p>
 
 <div align="center">
