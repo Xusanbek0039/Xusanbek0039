@@ -8,25 +8,6 @@ Kimyo Xalqaro Universiteti, Toshkent
 
 ----------------------------------------------
 
-## 💻 Texnologiyalar
-
-### 🧠 Backend:
-- 🔹 OOP
-- 🔹 Python
-- 🔹 Python NLP
-- 🔹 Django
-- 🔹 Django Rest Framework (DRF)
-- 🔹 FastAPI
-- 🔹 NodeJS
-
-### 🎨 Frontend:
-- 🔸 HTML / CSS / Sass / Scss
-- 🔸 Tailwind CSS
-- 🔸 JavaScript / TypeScript
-- 🔸 ReactJS
-
-----------------------------------------------
-
 ## 🏆 Sertifikatlar
 - 🎓 **M**ohirdev — 2 ta sertifikat  
 - 🎓 **Najot Ta'lim** — 2 ta sertifikat  
@@ -50,12 +31,6 @@ Kimyo Xalqaro Universiteti, Toshkent
 - Telegram: [@Husanbek_Coder](https://t.me/husanbek_coder)
 - Email: itpark0071@gmail.com
 
------------------------------------------------
-
-![Slide Preview](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/0502%20(1).gif)
-
-
-
 
 ----------------------------------------------
 <p align="center">
@@ -65,9 +40,11 @@ Kimyo Xalqaro Universiteti, Toshkent
 </p>
 
 <div align="center">
-✨ I'm <strong>Iqbolshoh Ilhomjonov</strong>, a passionate Full-Stack Developer and 4th-year Software Engineering student from the legendary city of <strong>Samarkand, Uzbekistan</strong>.  
-With over 3 years of experience, I specialize in building seamless, user-centric digital experiences — blending creativity and clean code. 🚀
+✨ Men <strong>Khusan Suyunov</strong>, dasturlashga ishtiyoqli Full-Stack Developer va Kimyo International University In Tashkent Biznes Managment Networks yo'nalishi bo'yicha 4-kurs talabaman. <br>
+Buyuk <strong>Jizzax, O‘zbekiston</strong> shahridanman.  
+4 yildan ortiq tajribam bilan foydalanuvchi uchun qulay va zamonaviy raqamli echimlar yaratishga ixtisoslashganman — ijodkorlik va toza kod yozishni uyg'unlashtiraman. 🚀
 </div>
+
 
 <p align="center">
   <img src="/Python Husanbek Suyunov.png" alt="Husanbek photo 1" width="30%"/>
