@@ -296,23 +296,29 @@ With over 3 years of experience, I specialize in building seamless, user-centric
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xusanbek0039&layout=compact&theme=radical" alt="Coding Stats" width="47.5%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical" alt="Top Languages" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xusanbek0039&layout=compact&theme=radical" alt="Top Languages" width="50%">
 </div>
 
 ## 🚀 Top Repositories
 
-<a href="https://github.com/xusanbek0039/laravel-business-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=laravel-business-website&theme=radical" alt="Laravel Business Website" width="49%">
+<a href="https://github.com/xusanbek0039/Django-Student-LMS-Edu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=Django-Student-LMS-Edu&theme=radical" alt="Laravel Business Website" width="49%">
 </a>
 
-<a href="https://github.com/xusanbek0039/php-mysql-marketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=php-mysql-marketplace&theme=radical" alt="Top Repositories" width="49%">
+<a href="https://github.com/xusanbek0039/goodever.uz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=goodever.uz&theme=radical" alt="Top Repositories" width="49%">
 </a>
 
-<a href="https://github.com/xusanbek0039/php-social-messenger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=php-social-messenger&theme=radical" alt="PHP Social Messenger" width="49%">
+<a href="https://github.com/xusanbek0039/itclms.uz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=itclms.uz&theme=radical" alt="PHP Social Messenger" width="49%">
 </a>
 
-<a href="https://github.com/xusanbek0039/php-auth-master">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=php-auth-master&theme=radical" alt="PHP Auth Master" width="49%">
+<a href="https://github.com/xusanbek0039/ChatGPT_TelegramBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=ChatGPT_TelegramBot&theme=radical" alt="Telegram ChatGPT" width="49%">
+</a>
+<a href="https://github.com/xusanbek0039/husanbek-coder.uz-3d-web-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=husanbek-coder.uz-3d-web-app&theme=radical" alt="Portfolio web sayt" width="49%">
+</a>
+<a href="https://github.com/xusanbek0039/ITC-LMS-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=ITC-LMS-API&theme=radical" alt="Api Django" width="49%">
 </a>
