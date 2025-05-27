@@ -102,14 +102,6 @@ With over 3 years of experience, I specialize in building seamless, user-centric
   <table>
     <tr>
       <td align="center">
-        <img src="https://flagcdn.com/32x24/tj.png" width="32" alt="Tajikistan Flag">
-        <p><strong>Tajik</strong></p>
-      </td>
-      <td align="center">
-        <img src="https://flagcdn.com/32x24/ir.png" width="32" alt="Iran Flag">
-        <p><strong>Persian</strong></p>
-      </td>
-      <td align="center">
         <img src="https://flagcdn.com/32x24/uz.png" width="32" alt="Uzbekistan Flag">
         <p><strong>Uzbek</strong></p>
       </td>
@@ -132,55 +124,49 @@ With over 3 years of experience, I specialize in building seamless, user-centric
   <table>
     <tr>
       <td>
-        <a href="https://iqbolshoh.uz" target="_blank">
+        <a href="https://husanbek-coder.uz" target="_blank">
           <img src="https://img.icons8.com/color/48/domain.png" 
                height="40" width="40" alt="Website" title="Website" />
         </a>
       </td>
       <td>
-        <a href="mailto:iilhomjonov777@gmail.com" target="_blank">
+        <a href="mailto:itpark0071@gmail.com" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
                height="40" width="40" alt="Email" title="Email" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/iqbolshoh" target="_blank">
+        <a href="https://github.com/xusanbek0039" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
                height="40" width="40" alt="GitHub" title="GitHub" />
         </a>
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/iqbolshoh/" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
-               height="40" width="40" alt="LinkedIn" title="LinkedIn" />
-        </a>
-      </td>
-      <td>
-        <a href="https://t.me/iqbolshoh_777" target="_blank">
+        <a href="https://t.me/husanbek_coder" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
                height="40" width="40" alt="Telegram" title="Telegram" />
         </a>
       </td>
       <td>
-        <a href="https://wa.me/998997799333" target="_blank">
+        <a href="https://wa.me/998975216686" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg"
                height="40" width="40" alt="WhatsApp" title="WhatsApp" />
         </a>
       </td>
       <td>
-        <a href="https://instagram.com/iqbolshoh_777" target="_blank">
+        <a href="https://instagram.com/husanbek_coder" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                height="40" width="40" alt="Instagram" title="Instagram" />
         </a>
       </td>
       <td>
-        <a href="https://x.com/iqbolshoh_777" target="_blank">
+        <a href="https://x.com/xusanbek0039" target="_blank">
           <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
                height="40" width="40" alt="X" title="X (Twitter)" />
         </a>
       </td>
       <td>
-        <a href="https://www.youtube.com/@Iqbolshoh_777" target="_blank">
+        <a href="https://www.youtube.com/@it_creative" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
                height="40" width="40" alt="YouTube" title="YouTube" />
         </a>
@@ -195,31 +181,31 @@ With over 3 years of experience, I specialize in building seamless, user-centric
   <table>
     <tr>
       <td>
-        <a href="https://codeforces.com/profile/Iqbolshoh_777" target="_blank" title="Visit Codeforces Profile">
+        <a href="https://codeforces.com/profile/Husanbek_coder" target="_blank" title="Visit Codeforces Profile">
           <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" 
                height="40" alt="Codeforces Profile Badge" />
         </a>
       </td>
       <td>
-        <a href="https://www.codewars.com/users/Iqbolshoh_777" target="_blank" title="Visit Codewars Profile">
+        <a href="https://www.codewars.com/users/husanbek_coder" target="_blank" title="Visit Codewars Profile">
           <img src="https://img.shields.io/badge/Codewars-%23AD2C27.svg?style=for-the-badge&logo=codewars&logoColor=white" 
                height="40" alt="Codewars Profile Badge" />
         </a>
       </td>
         <td>
-        <a href="https://leetcode.com/u/Iqbolshoh_777/" target="_blank" title="Visit LeetCode Profile">
+        <a href="https://leetcode.com/u/husanbek_coder/" target="_blank" title="Visit LeetCode Profile">
           <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" 
                height="40" alt="LeetCode Profile Badge" />
         </a>
       </td>
       <td>
-        <a href="hackerrank.com/iqbolshoh" target="_blank" title="Visit HackerRank Profile">
+        <a href="https://www.hackerrank.com/profile/itpark0071" target="_blank" title="Visit HackerRank Profile">
           <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" 
                height="40" alt="HackerRank Profile Badge" />
         </a>
       </td>
       <td>
-        <a href="https://atcoder.jp/users/Iqbolshoh_777" target="_blank" title="Visit AtCoder Profile">
+        <a href="https://atcoder.jp/users/husanbek_coder" target="_blank" title="Visit AtCoder Profile">
           <img src="https://img.shields.io/badge/AtCoder-%230099CC.svg?style=for-the-badge&logo=atcoder&logoColor=white" 
                height="40" alt="AtCoder Profile Badge" />
         </a>
