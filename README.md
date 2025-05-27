@@ -313,8 +313,8 @@ With over 3 years of experience, I specialize in building seamless, user-centric
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=itclms.uz&theme=radical" alt="PHP Social Messenger" width="49%">
 </a>
 
-<a href="https://github.com/xusanbek0039/ChatGPT_TelegramBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=ChatGPT_TelegramBot&theme=radical" alt="Telegram ChatGPT" width="49%">
+<a href="https://github.com/xusanbek0039/ChatGPT-Telegram-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=ChatGPT-Telegram-Bot&theme=radical" alt="Telegram ChatGPT" width="49%">
 </a>
 <a href="https://github.com/xusanbek0039/husanbek-coder.uz-3d-web-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xusanbek0039&repo=husanbek-coder.uz-3d-web-app&theme=radical" alt="Portfolio web sayt" width="49%">
