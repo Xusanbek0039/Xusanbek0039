@@ -243,6 +243,8 @@ With over 3 years of experience, I specialize in building seamless, user-centric
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%232c3e50.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Python NLP](https://img.shields.io/badge/Python%20NLP-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
