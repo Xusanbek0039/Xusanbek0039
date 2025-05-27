@@ -83,7 +83,7 @@ With over 3 years of experience, I specialize in building seamless, user-centric
       Djizzax, Uzbekistan
     </td>
     <td align="center">
-      <img src="https://kiut.uz/static/img/icons/logo.65854c536596.svg" width="40" alt="Education Icon"/><br/>
+      <img src="https://kiut.uz/static/img/icons/logo.65854c536596.svg" width="100" alt="Education Icon"/><br/>
       <strong>Education</strong><br/>
       4th-Year Student<br/>
     </td>
