@@ -261,13 +261,6 @@ Buyuk <strong>Jizzax, O‘zbekiston</strong> shahridanman.
     <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=xusanbek0039&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
 </div>
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=xusanbek0039&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
-
-## 🏆 GitHub Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=xusanbek0039&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
 
 ## 📈 Top Languages
 
