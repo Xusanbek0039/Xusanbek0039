@@ -260,4 +260,7 @@ Buyuk <strong>Jizzax, O‘zbekiston</strong> shahridanman.
 <div align="center">
     <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=xusanbek0039&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
 </div>
+<div align="center">
+    <img alt="Shaggy's Activity Graph" src="https://camo.githubusercontent.com/15747a801965522c49a96a9d5729748ec3d51b32d4df9c8e9499d54560afa290/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b687564726174696c6c6179657664757262656b2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" align="center" width="100%" />
+</div>
 
