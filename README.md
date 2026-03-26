@@ -99,49 +99,7 @@ me.about()
 
 ---
 
-## 🐍 Contribution Snake
 
-> ⚙️ Snake animatsiyasini yoqish uchun quyidagi GitHub Action faylini yarating:
-> `.github/workflows/snake.yml`
-
-<details>
-<summary>📄 <b>snake.yml — bosing va nusxa oling</b></summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: xusanbek0039
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-> Fayl yaratib, Actions ni ishga tushirgach, bu qatorni README ga qo'shing:
-
-```
-![Snake](https://raw.githubusercontent.com/xusanbek0039/xusanbek0039/output/github-contribution-grid-snake-dark.svg)
-```
-
----
 
 <div align="center">
 
